@@ -11,3 +11,7 @@ See folder environmental_modeling/
 6. Fit wind speed model: *fit_windspeeds.ipynb*
 7. Fit bottom current model: *fit_bottomcurrents.ipynb*
 
+### Envelope cross-correlation - for comparison to STA/LTA triggering
+1. Perform envelope cross-correlation between the two OOI stations: *parallel_envelope_cc.ipynb*
+2. Plot comparison between envelope cross-correlation and STA/LTA triggering, and calculate overlaps: *compare_cc_triggering.ipynb*
+
