@@ -1,6 +1,10 @@
 # obs_tremor
 Repository for the manuscript "Potential Shallow Tectonic Tremor Signals Near the Deformation Front in Central Cascadia"
 
+Authors: Zoe Krauss, William Wilcock, Ken Creager
+
+This repository is not intended to work out-of-the-box, but instead just houses the codes we used in our analysis in the form of Jupyter notebooks. Feel free to use the codes as a base to adapt to your own use cases. The data included in this repository are all publicly available and referenced in the manuscript.
+
 <img width="760" alt="Screenshot 2024-12-19 at 4 16 00 PM" src="https://github.com/user-attachments/assets/afe1f263-5068-4a45-a1bf-309d984c3dc6" />
 
 ### Environmental modeling - wind speeds and bottom currents
