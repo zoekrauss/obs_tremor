@@ -1,6 +1,8 @@
 # obs_tremor
 Repository for the manuscript "Potential Shallow Tectonic Tremor Signals Near the Deformation Front in Central Cascadia"
 
+<img width="760" alt="Screenshot 2024-12-19 at 4 16 00 PM" src="https://github.com/user-attachments/assets/afe1f263-5068-4a45-a1bf-309d984c3dc6" />
+
 ### Environmental modeling - wind speeds and bottom currents
 See folder environmental_modeling/
 1. Read in and process seismic data, saving hourly medians: *parallel_hourly_medians.ipynb*
@@ -21,4 +23,7 @@ See folder tremor_detection/
 1. Perform emergent signal detection via STA/LTA triggering: *parallel_stalta_triggering.ipynb*
 2. Perform classification on detected signals: *parallel_classification.ipynb*
 3. Example plot of classification, from Figure 2: *classification_figure.ipynb*
+4. Plot results from Hikurangi: *plot_detections_hikurangi.ipynb*
+5. Plot results from the OOI: *plot_detections_ooi.ipynb*
+6. Attenuate a tremor signal using Azimi's relation: *attenuation.ipynb*
 
