@@ -1,6 +1,8 @@
 # obs_tremor
 Repository for the manuscript "Potential Shallow Tectonic Tremor Signals Near the Deformation Front in Central Cascadia"
 
+The non-peer-reviewed preprint can be found here: https://www.authorea.com/doi/full/10.22541/au.173498202.28863970
+
 Authors: Zoe Krauss, William Wilcock, Ken Creager
 
 This repository is not intended to work out-of-the-box, but instead just houses the codes we used in our analysis in the form of Jupyter notebooks. Feel free to use the codes as a base to adapt to your own use cases. The data included in this repository are all publicly available and referenced in the manuscript.
