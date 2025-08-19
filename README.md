@@ -1,7 +1,7 @@
 # obs_tremor
-Repository for the manuscript "Potential Shallow Tectonic Tremor Signals Near the Deformation Front in Central Cascadia"
+Repository for the manuscript "Possible Shallow Tectonic Tremor Signals Near the Deformation Front in Central Cascadia"
 
-The non-peer-reviewed preprint can be found here: https://www.authorea.com/doi/full/10.22541/au.173498202.28863970
+The published manuscript can be found here: https://seismica.library.mcgill.ca/article/view/1540
 
 Authors: Zoe Krauss, William Wilcock, Ken Creager
 
